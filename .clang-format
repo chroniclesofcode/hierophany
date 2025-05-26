@@ -1,0 +1,6 @@
+BasedOnStyle: Google
+SortIncludes: true
+BreakBeforeBraces: Allman 
+IndentWidth: 4
+ColumnLimit: 120
+AllowShortFunctionsOnASingleLine: false

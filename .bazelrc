@@ -1,0 +1,5 @@
+build --cxxopt=-std=c++20
+build --cxxopt=-mmacosx-version-min=14.0
+
+build --host_cxxopt=-std=c++20
+build --host_cxxopt=-mmacosx-version-min=14.0
