@@ -1,0 +1,6 @@
+cc_library(
+    name = "quadtree_lib",
+    srcs = [],
+    hdrs = ["quadtree.hpp"],
+    visibility = ["//visibility:public"],
+)
