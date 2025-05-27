@@ -2,5 +2,6 @@ cc_library(
     name = "quadtree_lib",
     srcs = [],
     hdrs = ["quadtree.hpp"],
+    deps = ["//util/vec2:vec2_lib"],
     visibility = ["//visibility:public"],
 )

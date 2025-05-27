@@ -1,0 +1,6 @@
+cc_library(
+    name = "vec2_lib",
+    srcs = [],
+    hdrs = ["vec2.hpp"],
+    visibility = ["//visibility:public"],
+)
